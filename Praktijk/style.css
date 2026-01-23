@@ -1,0 +1,26 @@
+.{
+    margin: 0;
+    padding: 0;
+    flex: box;
+
+}
+
+body{
+    background-color: #25050a;
+    color: #c0c0cf;
+    font-style: Arial;
+    font: size 1.6;
+}
+main{
+
+}
+
+header {
+   position: sticky;
+   background-color:purple ;
+}
+
+header.logo{
+    text-decoration: none;
+
+}
